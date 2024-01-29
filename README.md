@@ -33,4 +33,44 @@ This is one way to run your app — you can also run it directly from within And
 
 ## Congratulations!
 
+Guest mode:
 ![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/f12633c8-6dfc-4c80-8fa9-c0f5860decdc)
+
+Guest mode card:
+![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/d9e9a8bd-f783-46bf-8ab8-15d30618e185)
+
+sign in :
+
+
+![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/d63c310a-6b8f-4fa4-a2f1-c1316c7e886d)
+
+Customer Module:
+
+![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/e5bc5606-f375-441a-b543-2cb4a42de912)
+
+Customer card pictures:
+
+![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/25d99b58-37c5-42b0-9adf-3dd3be85d670)
+cart:
+
+![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/1cedbcd3-5af0-4c4f-a4cf-6c2d5fe8d59a)
+
+profile:
+
+![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/8ee2d288-9327-4cd7-a5cc-955985cbe09a)
+
+admin Module:
+
+![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/fb1b36b9-d626-4ddf-a3cd-6b47e2536761)
+
+Dashboard:
+
+![image](https://github.com/runtime-error786/electronic-ecommerce-app/assets/123109871/19e52282-ad82-4b75-bbb0-6bde67fbbe23)
+
+ I only show some page of other pages are similar
+
+
+
+
+
+
