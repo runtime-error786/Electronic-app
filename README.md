@@ -1,4 +1,6 @@
-
+##Description:
+in that project there are three roles. In guest pages  product only show but it cannot add to cart.In customer it add to cart or profile page show.
+admin can drop update product info and add product.admin also view graph of sales
 ## Step 1: Start the Metro Server
 
 ```bash
