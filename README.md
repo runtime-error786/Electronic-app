@@ -1,6 +1,4 @@
-##Description:
-in that project there are three roles. In guest pages  product only show but it cannot add to cart.In customer it add to cart or profile page show.
-admin can drop update product info and add product.admin also view graph of sales
+In this project, there are three roles: guest, customer, and admin. In the guest pages, products are displayed but cannot be added to the cart. In the customer role, products can be added to the cart, and the profile page is accessible. The admin role allows for dropping, updating, and adding product information. Additionally, admins can view graphs of sales.
 ## Step 1: Start the Metro Server
 
 ```bash
